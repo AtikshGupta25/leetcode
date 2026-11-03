@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AtikshGupta25/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/AtikshGupta25/leetcode/tree/master/0412-fizz-buzz) |
+| [1486-xor-operation-in-an-array](https://github.com/AtikshGupta25/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AtikshGupta25/leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/AtikshGupta25/leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
