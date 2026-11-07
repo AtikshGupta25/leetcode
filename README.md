@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtikshGupta25/leetcode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/AtikshGupta25/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/AtikshGupta25/leetcode/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/AtikshGupta25/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtikshGupta25/leetcode/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/AtikshGupta25/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
