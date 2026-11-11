@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AtikshGupta25/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AtikshGupta25/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/AtikshGupta25/leetcode/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/AtikshGupta25/leetcode/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/AtikshGupta25/leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
