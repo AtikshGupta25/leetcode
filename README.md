@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AtikshGupta25/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/AtikshGupta25/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/AtikshGupta25/leetcode/tree/master/0412-fizz-buzz) |
 | [1486-xor-operation-in-an-array](https://github.com/AtikshGupta25/leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AtikshGupta25/leetcode/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AtikshGupta25/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
