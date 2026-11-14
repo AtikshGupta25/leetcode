@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AtikshGupta25/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/AtikshGupta25/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AtikshGupta25/leetcode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/AtikshGupta25/leetcode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/AtikshGupta25/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/AtikshGupta25/leetcode/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/AtikshGupta25/leetcode/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AtikshGupta25/leetcode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/AtikshGupta25/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AtikshGupta25/leetcode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AtikshGupta25/leetcode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/AtikshGupta25/leetcode/tree/master/0047-permutations-ii) |
 ## Trie
 |  |
 | ------- |
